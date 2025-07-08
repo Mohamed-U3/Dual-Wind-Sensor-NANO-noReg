@@ -522,7 +522,7 @@
       "plot": "Output/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Dual_Wind_Sensor-NANO_noReg.step",
       "svg": "",
       "vrml": ""
     },
